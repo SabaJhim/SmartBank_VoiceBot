@@ -1,1 +1,15 @@
-[]
+[
+        {
+          "question": "How can I open a savings account?",
+          "answer": "To open a savings account, you typically need a national ID, a passport-sized photo, and a minimum initial deposit. Visit any branch or apply online."
+        },
+        {
+          "question": "What documents are needed for a personal loan?",
+          "answer": "You need a national ID, proof of income (salary slips), bank statements, and a completed loan application form."
+        },
+        {
+          "question": "What is the minimum balance requirement?",
+          "answer": "Most savings accounts require a minimum balance of BDT 2,000 to 5,000 depending on the bank."
+        }
+      ]
+      
